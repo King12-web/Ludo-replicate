@@ -1,0 +1,13 @@
+table{
+    border: 2px solid;
+    margin: 50px auto;
+    padding: 10px 10px;
+    width: 50%;
+    border-collapse: collapse;
+    text-align: center;
+}
+td{
+    border: 2px solid;
+    width: 35px;
+    height: 35px;
+}
